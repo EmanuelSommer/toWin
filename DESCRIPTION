@@ -1,0 +1,11 @@
+Package: toWin
+Type: Package
+Title: Convert windows file paths into R friendly ones
+Version: 0.1.0
+Author: Emanuel Sommer <emanuel_sommer@gmx.de>
+Maintainer: Emanuel Sommer <emanuel_sommer@gmx.de>
+Description: Convert windows file paths into R friendly ones. Not more not less:)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
