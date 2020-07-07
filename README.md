@@ -1,5 +1,5 @@
 
-# toWin
+# toWin <img src="hex_toWin.png" align="right" width="120" />
 
 Convert windows file paths into R friendly ones. Not more not less.
 
