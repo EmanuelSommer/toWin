@@ -12,6 +12,6 @@ toWin <- function() {
   cat("Paste windows file path and hit RETURN twice")
   scaned <- scan(what = "")
   replaced <- gsub("\\\\", "/", scaned)
-  writeClipboard(paste(replaced, collapse=" "))
+  writeClipboard(paste(replaced, collapse = " "))
   cat("R friendly path. (Also on the clipboard.)\n", replaced, "\n")
 }
